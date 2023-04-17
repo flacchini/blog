@@ -29,7 +29,7 @@ avatar: https://avatars3.githubusercontent.com/u/13562529
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://barryclark.github.io
+url: https://flacchini.github.io/flacchini/
 
 social:
   # Change to your full name.
@@ -38,8 +38,6 @@ social:
   email: christopher@chrisjhart.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/_ChrisJHart # change to your twitter homepage
-    - https://github.com/ChristopherJHart # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
