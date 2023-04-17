@@ -10,15 +10,15 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: de
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New_York
+timezone: Austria/Vienna
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Christopher Hart # the main title
+title:  Fabio Lacchini # the main title
 
 tagline: Documenting my discoveries in the IT world # it will display as the sub-title
 
@@ -29,13 +29,7 @@ avatar: https://avatars3.githubusercontent.com/u/13562529
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://www.chrisjhart.com
-
-github:
-  username: ChristopherJHart # change to your github username
-
-twitter:
-  username: _ChrisJHart # change to your twitter username
+url: http://barryclark.github.io
 
 social:
   # Change to your full name.
@@ -55,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 # ↑ --------------------------
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-96650632-1
+google_analytics: 
 
 # Prefer color scheme setting.
 #
